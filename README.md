@@ -1,4 +1,4 @@
 # firstdemo
 This is my first repository in github 
 <br>
-Author - Ayush Thakur
+Author - Ayush Thakur (Allbus King)
